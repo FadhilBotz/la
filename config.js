@@ -5,13 +5,13 @@
 // RECODE BY RIEL OFC
 
 //=============『 Utama 』================== //
-global.owner = ['6285822347348'] 
-global.mods = ['6285822347348'] 
-global.prems = ['6285822347348'] 
+global.owner = ['6288271707571'] 
+global.mods = ['6288271707571'] 
+global.prems = ['6288271707571'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ArullOfc ✰'
-global.numberowner = '6285822347348'
+global.nameowner = 'Reyzofc ✰'
+global.numberowner = '6288271707571'
 global.instagram = 'https://instagram.com/sahrulwara_____'
 global.github = 'https://github.com/warikrr'
 global.dana = '085822347348'
@@ -19,7 +19,7 @@ global.pulsa = '085822347348'
 global.gopay = ''
 
 //=============『 Info Bot 』=================//
-global.namebot = 'ArullBotzMD'
+global.namebot = 'ReyzBotzMD'
 global.gc = 'https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS'
 global.web = 'https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://saweria.co/arullOfc'
